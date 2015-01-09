@@ -3,8 +3,9 @@ package org.git.test;
 public class TestGit {
 
 	public static void main(String[] args) {
-
-		System.out.println("Test Git.");
+		
+		//测试输出Test Git语句
+		System.out.println("Test Git!");
 	}
 
 }
